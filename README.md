@@ -3,14 +3,25 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Shayan Abrar, Machine Learning Engineer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="500" />
+</p>
+
+
+
  </abc>
 </h2> 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=1000&color=32CD32&width=435&lines=Machine%20Learning%20Engineer;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=100&color=32CD32&width=435&lines=Machine%20Learning%20Engineer;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
 
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Cool Developer GIF" width="500" />
+</p>
+
+
 <h2 align="left">🧠 Technologies and Tools I Use:</h2>
 
 <p align="left">
@@ -57,6 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right:15px;" />
   </a>
 </p>
+
 
 
 <h2 align="left">🤖 About Me:</h2>
@@ -109,28 +121,37 @@
 
 ## **📱 Socials**
 
-<p align="left">
-  <a href="https://github.com/alexsmith" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/shayan-abrar/" target="_blank" title="Click Link">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.linkedin.com/in/shayan-abrar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://wa.me/8801670786166" target="_blank" title="Click Link">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="WhatsApp" width="100" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.facebook.com/shayanabrar7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://www.facebook.com/share/1C8zi1grCU/" target="_blank" title="Click Link">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Facebook" width="100" />
   </a>
 </p>
 
 
 ---
+
 <p align="center">
   This README was generated with ❤️ by 
   <a href="https://github.com/SHAYAN-ABRAR" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Click%20to%20Find%20out%20😉-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Shayan%20Abrar%20😉-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Readme Generator"
     />
   </a>
 </p>
 
-<p align="center">Developed by <b>SHAYAN ABRAR</b></p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="Developer at work" width="500" />
+</p>
+
+
+
+
+
