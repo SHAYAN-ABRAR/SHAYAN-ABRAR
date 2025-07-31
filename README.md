@@ -140,7 +140,7 @@
   This README was generated with ❤️ by 
   <a href="https://github.com/SHAYAN-ABRAR" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Shayan%20Abrar%20😉-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/Shayan%20Abrar-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub Readme Generator"
     />
   </a>
