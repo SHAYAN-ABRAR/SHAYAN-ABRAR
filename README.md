@@ -13,7 +13,7 @@
 </h2> 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=100&color=32CD32&width=435&lines=Machine%20Learning%20Engineer;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=50&color=32CD32&width=435&lines=Machine%20Learning%20Enthusiast;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
 
 </div>
 
