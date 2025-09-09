@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Shayan Abrar, Machine Learning Enthusuast :computer:<br>
+  <br> I'm Shayan Abrar, Machine Learning & AI Enthusiast :computer:<br>
   <br>
    <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coder GIF" width="500" />
@@ -13,7 +13,7 @@
 </h2> 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=50&color=32CD32&width=435&lines=Machine%20Learning%20Enthusiast;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rationale&size=34&pause=50&color=32CD32&width=435&lines=Machine%20Learning%20&%20AI%20Enthusiast;Python%20Specialist;Building%20the%20future;One%20research%20at%20a%20time;Let's%20create!;FREE%20PALESTINE!!!&center=true&vCenter=true&repeat=true)
 
 </div>
 
@@ -73,9 +73,9 @@
 
 <h2 align="left">🤖 About Me:</h2>
 
-- 💻 I'm a Machine Learning Engineer passionate about building intelligent, data-driven solutions.
+- 💻 I'm a Machine Learning & AI enthusiast, passionate about building intelligent, data-driven solutions.
 - 🌐 Proficient in HTML and Tailwind CSS, having created several sleek, responsive websites.
-- 📊 Skilled in Python, SQL, and Deep Learning; always experimenting with real-world applications of AI.
+- 📊 Skilled in Python, SQL, LLMs and Deep Learning; always experimenting with real-world applications of AI.
 - 🧠 Exploring advanced NLP, Computer Vision, and Generative AI models.
 - 📚 Contributed to academic research and published papers on ML and Data Science.
 - 🛠️ Currently learning PostgreSQL to strengthen my backend and data handling capabilities.
