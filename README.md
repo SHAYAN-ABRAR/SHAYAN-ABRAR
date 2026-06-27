@@ -163,39 +163,36 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 Analytics &amp; Statistics</h2>
-
 <div align="center">
-
 <table style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; background: rgba(255, 255, 255, 0.04); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(8px);">
 <tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHAYAN-ABRAR&show_icons=true&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=c9d1d9&icon_color=32CD32&card_width=400" alt="GitHub Stats" />
-
+<td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAYAN-ABRAR&show_icons=true&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=c9d1d9&icon_color=32CD32&ring_color=32CD32&card_width=470" alt="GitHub Stats" />
 </td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAYAN-ABRAR&layout=compact&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=c9d1d9&card_width=400" alt="Most Used Languages" />
-
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHAYAN-ABRAR&theme=transparent" alt="Stats" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHAYAN-ABRAR&theme=transparent" alt="Top Languages by Repo" />
+</td>
+<td align="center" width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHAYAN-ABRAR&theme=transparent" alt="Top Languages by Commit" />
 </td>
 </tr>
 </table>
-
 </div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SHAYAN-ABRAR&color=brightgreen" alt="Profile Views" />
 </div>
-
 <br/>
-
 <h3 align="center">✍️ Dev Quote</h3>
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Dev Quote" />
 </p>
-
 <br/>
+
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
 <!--                                SOCIALS                                 -->
