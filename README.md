@@ -163,34 +163,53 @@
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📊 Analytics &amp; Statistics</h2>
+
 <div align="center">
+
 <table style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; background: rgba(255, 255, 255, 0.04); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(8px);">
 <tr>
 <td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAYAN-ABRAR&show_icons=true&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=c9d1d9&icon_color=32CD32&ring_color=32CD32&card_width=470" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAYAN-ABRAR&show_icons=true&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=ffffff&icon_color=32CD32&ring_color=32CD32&card_width=470" alt="GitHub Stats" />
 </td>
 <td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHAYAN-ABRAR&theme=transparent" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAYAN-ABRAR&layout=donut&hide_border=true&bg_color=00000000&title_color=32CD32&text_color=ffffff&custom_title=Top%20Languages%20by%20Repo" alt="Top Languages by Repo" />
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHAYAN-ABRAR&theme=transparent" alt="Top Languages by Repo" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHAYAN-ABRAR&theme=transparent" alt="Top Languages by Commit" />
+<td align="center" colspan="2">
+  <img src="https://streak-stats.demolab.com/?user=SHAYAN-ABRAR&theme=transparent&hide_border=true&ring=32CD32&fire=32CD32&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=32CD32&sideLabels=32CD32&dates=c9d1d9" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
+
 </div>
+
+<div align="center">
+
+<table style="border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; background: rgba(255, 255, 255, 0.04); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.15); backdrop-filter: blur(8px);">
+<tr>
+<td align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHAYAN-ABRAR&bg_color=00000000&color=ffffff&line=32CD32&point=32CD32&area=true&area_color=32CD32&title_color=32CD32&hide_border=true" alt="Contribution Graph" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SHAYAN-ABRAR&color=brightgreen" alt="Profile Views" />
 </div>
+
 <br/>
+
 <h3 align="center">✍️ Dev Quote</h3>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Dev Quote" />
 </p>
+
 <br/>
 
 
